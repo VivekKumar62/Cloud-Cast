@@ -1,4 +1,4 @@
-# Cloud-SKY
+# Cloud-Cast 
 Cloud Cast a weather detection app
 
 Certainly, here's the revised description with "Cloud Cast" as the name:
